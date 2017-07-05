@@ -1,0 +1,8 @@
+D:\code\cs7presentation\expression_bodied\bin\Debug\netcoreapp1.1\expression_bodied.deps.json
+D:\code\cs7presentation\expression_bodied\bin\Debug\netcoreapp1.1\expression_bodied.runtimeconfig.json
+D:\code\cs7presentation\expression_bodied\bin\Debug\netcoreapp1.1\expression_bodied.runtimeconfig.dev.json
+D:\code\cs7presentation\expression_bodied\obj\Debug\netcoreapp1.1\expression_bodied.AssemblyInfo.cs
+d:\code\cs7presentation\expression_bodied\bin\Debug\netcoreapp1.1\expression_bodied.dll
+d:\code\cs7presentation\expression_bodied\bin\Debug\netcoreapp1.1\expression_bodied.pdb
+d:\code\cs7presentation\expression_bodied\obj\Debug\netcoreapp1.1\expression_bodied.dll
+d:\code\cs7presentation\expression_bodied\obj\Debug\netcoreapp1.1\expression_bodied.pdb

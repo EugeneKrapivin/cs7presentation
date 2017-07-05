@@ -1,0 +1,8 @@
+d:\code\cs7presentation\ref_locals_returns\bin\Debug\netcoreapp1.1\ref_locals_returns.deps.json
+d:\code\cs7presentation\ref_locals_returns\bin\Debug\netcoreapp1.1\ref_locals_returns.runtimeconfig.json
+d:\code\cs7presentation\ref_locals_returns\bin\Debug\netcoreapp1.1\ref_locals_returns.runtimeconfig.dev.json
+d:\code\cs7presentation\ref_locals_returns\bin\Debug\netcoreapp1.1\ref_locals_returns.dll
+d:\code\cs7presentation\ref_locals_returns\bin\Debug\netcoreapp1.1\ref_locals_returns.pdb
+d:\code\cs7presentation\ref_locals_returns\obj\Debug\netcoreapp1.1\ref_locals_returns.AssemblyInfo.cs
+d:\code\cs7presentation\ref_locals_returns\obj\Debug\netcoreapp1.1\ref_locals_returns.dll
+d:\code\cs7presentation\ref_locals_returns\obj\Debug\netcoreapp1.1\ref_locals_returns.pdb

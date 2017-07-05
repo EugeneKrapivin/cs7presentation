@@ -1,0 +1,10 @@
+D:\code\cs7presentation\cs7.1\bin\Debug\netcoreapp2.0\cs7.1.deps.json
+D:\code\cs7presentation\cs7.1\bin\Debug\netcoreapp2.0\cs7.1.runtimeconfig.json
+D:\code\cs7presentation\cs7.1\bin\Debug\netcoreapp2.0\cs7.1.runtimeconfig.dev.json
+D:\code\cs7presentation\cs7.1\bin\Debug\netcoreapp2.0\cs7.1.dll
+D:\code\cs7presentation\cs7.1\bin\Debug\netcoreapp2.0\cs7.1.pdb
+D:\code\cs7presentation\cs7.1\obj\Debug\netcoreapp2.0\cs7.1.csproj.CoreCompileInputs.cache
+D:\code\cs7presentation\cs7.1\obj\Debug\netcoreapp2.0\cs7.1.AssemblyInfoInputs.cache
+D:\code\cs7presentation\cs7.1\obj\Debug\netcoreapp2.0\cs7.1.AssemblyInfo.cs
+D:\code\cs7presentation\cs7.1\obj\Debug\netcoreapp2.0\cs7.1.dll
+D:\code\cs7presentation\cs7.1\obj\Debug\netcoreapp2.0\cs7.1.pdb

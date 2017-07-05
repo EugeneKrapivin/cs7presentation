@@ -1,0 +1,10 @@
+D:\code\cs7presentation\tuples\bin\Debug\netcoreapp1.1\tuples.deps.json
+D:\code\cs7presentation\tuples\bin\Debug\netcoreapp1.1\tuples.runtimeconfig.json
+D:\code\cs7presentation\tuples\bin\Debug\netcoreapp1.1\tuples.runtimeconfig.dev.json
+D:\code\cs7presentation\tuples\obj\Debug\netcoreapp1.1\tuples.AssemblyInfo.cs
+D:\code\cs7presentation\tuples\bin\Debug\netcoreapp1.1\tuples.dll
+D:\code\cs7presentation\tuples\bin\Debug\netcoreapp1.1\tuples.pdb
+D:\code\cs7presentation\tuples\obj\Debug\netcoreapp1.1\tuples.dll
+D:\code\cs7presentation\tuples\obj\Debug\netcoreapp1.1\tuples.pdb
+D:\code\cs7presentation\tuples\obj\Debug\netcoreapp1.1\tuples.csproj.CoreCompileInputs.cache
+D:\code\cs7presentation\tuples\obj\Debug\netcoreapp1.1\tuples.AssemblyInfoInputs.cache

@@ -1,0 +1,8 @@
+d:\code\cs7presentation\pattern_matching\bin\Debug\netcoreapp1.1\pattern_matching.deps.json
+d:\code\cs7presentation\pattern_matching\bin\Debug\netcoreapp1.1\pattern_matching.runtimeconfig.json
+d:\code\cs7presentation\pattern_matching\bin\Debug\netcoreapp1.1\pattern_matching.runtimeconfig.dev.json
+d:\code\cs7presentation\pattern_matching\bin\Debug\netcoreapp1.1\pattern_matching.dll
+d:\code\cs7presentation\pattern_matching\bin\Debug\netcoreapp1.1\pattern_matching.pdb
+d:\code\cs7presentation\pattern_matching\obj\Debug\netcoreapp1.1\pattern_matching.AssemblyInfo.cs
+d:\code\cs7presentation\pattern_matching\obj\Debug\netcoreapp1.1\pattern_matching.dll
+d:\code\cs7presentation\pattern_matching\obj\Debug\netcoreapp1.1\pattern_matching.pdb

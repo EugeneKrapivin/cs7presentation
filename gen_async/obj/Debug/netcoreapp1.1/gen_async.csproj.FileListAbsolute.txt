@@ -1,0 +1,8 @@
+d:\code\cs7presentation\gen_async\bin\Debug\netcoreapp1.1\gen_async.deps.json
+d:\code\cs7presentation\gen_async\bin\Debug\netcoreapp1.1\gen_async.runtimeconfig.json
+d:\code\cs7presentation\gen_async\bin\Debug\netcoreapp1.1\gen_async.runtimeconfig.dev.json
+d:\code\cs7presentation\gen_async\bin\Debug\netcoreapp1.1\gen_async.dll
+d:\code\cs7presentation\gen_async\bin\Debug\netcoreapp1.1\gen_async.pdb
+d:\code\cs7presentation\gen_async\obj\Debug\netcoreapp1.1\gen_async.AssemblyInfo.cs
+d:\code\cs7presentation\gen_async\obj\Debug\netcoreapp1.1\gen_async.dll
+d:\code\cs7presentation\gen_async\obj\Debug\netcoreapp1.1\gen_async.pdb

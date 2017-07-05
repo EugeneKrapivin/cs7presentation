@@ -1,0 +1,8 @@
+d:\code\cs7presentation\var_out\bin\Debug\netcoreapp1.1\var_out.deps.json
+d:\code\cs7presentation\var_out\bin\Debug\netcoreapp1.1\var_out.runtimeconfig.json
+d:\code\cs7presentation\var_out\bin\Debug\netcoreapp1.1\var_out.runtimeconfig.dev.json
+d:\code\cs7presentation\var_out\bin\Debug\netcoreapp1.1\var_out.dll
+d:\code\cs7presentation\var_out\bin\Debug\netcoreapp1.1\var_out.pdb
+d:\code\cs7presentation\var_out\obj\Debug\netcoreapp1.1\var_out.AssemblyInfo.cs
+d:\code\cs7presentation\var_out\obj\Debug\netcoreapp1.1\var_out.dll
+d:\code\cs7presentation\var_out\obj\Debug\netcoreapp1.1\var_out.pdb

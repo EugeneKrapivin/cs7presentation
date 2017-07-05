@@ -1,0 +1,8 @@
+d:\code\cs7presentation\local_functions\bin\Debug\netcoreapp1.1\local_functions.deps.json
+d:\code\cs7presentation\local_functions\bin\Debug\netcoreapp1.1\local_functions.runtimeconfig.json
+d:\code\cs7presentation\local_functions\bin\Debug\netcoreapp1.1\local_functions.runtimeconfig.dev.json
+d:\code\cs7presentation\local_functions\bin\Debug\netcoreapp1.1\local_functions.dll
+d:\code\cs7presentation\local_functions\bin\Debug\netcoreapp1.1\local_functions.pdb
+d:\code\cs7presentation\local_functions\obj\Debug\netcoreapp1.1\local_functions.AssemblyInfo.cs
+d:\code\cs7presentation\local_functions\obj\Debug\netcoreapp1.1\local_functions.dll
+d:\code\cs7presentation\local_functions\obj\Debug\netcoreapp1.1\local_functions.pdb
