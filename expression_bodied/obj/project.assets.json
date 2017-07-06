@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "targets": {
     ".NETCoreApp,Version=v1.1": {
       "Libuv/1.9.1": {
@@ -7084,21 +7084,36 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\code\\cs7presentation\\expression_bodied\\expression_bodied.csproj",
+      "projectUniqueName": "d:\\code\\cs7presentation\\expression_bodied\\expression_bodied.csproj",
       "projectName": "expression_bodied",
-      "projectPath": "D:\\code\\cs7presentation\\expression_bodied\\expression_bodied.csproj",
-      "outputPath": "D:\\code\\cs7presentation\\expression_bodied\\obj\\",
+      "projectPath": "d:\\code\\cs7presentation\\expression_bodied\\expression_bodied.csproj",
+      "packagesPath": "C:\\Users\\evgene.kr\\.nuget\\packages\\",
+      "outputPath": "d:\\code\\cs7presentation\\expression_bodied\\obj\\",
       "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\evgene.kr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
       "originalTargetFrameworks": [
         "netcoreapp1.1"
       ],
-      "files": {
-        "lib/netcoreapp1.1/expression_bodied.dll": "D:\\code\\cs7presentation\\expression_bodied\\bin\\placeholder\\netcoreapp1.1\\expression_bodied.dll"
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\evgene.kr\\.dotnet\\NuGetFallbackFolder": {},
+        "http://nuget/NuGetForVS/nuget/": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://dotnet.myget.org/F/orleans-prerelease/api/v3/index.json": {},
+        "https://dotnet.myget.org/F/roslyn/api/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
@@ -7106,7 +7121,8 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "1.1.2"
+            "version": "1.1.2",
+            "autoReferenced": true
           },
           "System.ValueTuple": {
             "target": "Package",

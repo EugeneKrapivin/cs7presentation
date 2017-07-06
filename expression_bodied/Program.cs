@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace expression_bodied
 {
@@ -7,14 +9,20 @@ namespace expression_bodied
     {
         static void Main(string[] args)
         {
+            NewMethod();
+            GC.Collect();
+        }
+
+        private static void NewMethod()
+        {
             var p = new Person(("John", "Doe")); // constructor
 
             System.Console.WriteLine(p.ToString()); // method
-            
+
             // Setters props
-            p.FirstName = "Eugene"; 
-            p.LastName = "Krapivin"; 
-            
+            p.FirstName = "Eugene";
+            p.LastName = "Krapivin";
+
             System.Console.WriteLine($"{p.LastName}, {p.FirstName}"); // getters
             System.Console.WriteLine(p.FullName); // ValueTuple property getter
         }
@@ -41,10 +49,10 @@ namespace expression_bodied
 
         public (string FirstName, string LastName) FullName => (FirstName, LastName); // C# 6 with ValueTuples
 
-        public Person((string fname, string lname) fullName) 
+        public Person((string fname, string lname) fullName)
             => (_fname, _lname) = fullName; // C# 7
 
-        ~Person() 
-            => Debug.WriteLine("Good bye, cruel world"); // C# 7 - sorry cant really force the finalizer :(
+        ~Person()
+            => Console.WriteLine("Good bye, cruel world"); // C# 7
     }
 }

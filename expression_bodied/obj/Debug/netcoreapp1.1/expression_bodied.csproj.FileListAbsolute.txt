@@ -6,3 +6,5 @@ d:\code\cs7presentation\expression_bodied\bin\Debug\netcoreapp1.1\expression_bod
 d:\code\cs7presentation\expression_bodied\bin\Debug\netcoreapp1.1\expression_bodied.pdb
 d:\code\cs7presentation\expression_bodied\obj\Debug\netcoreapp1.1\expression_bodied.dll
 d:\code\cs7presentation\expression_bodied\obj\Debug\netcoreapp1.1\expression_bodied.pdb
+D:\code\cs7presentation\expression_bodied\obj\Debug\netcoreapp1.1\expression_bodied.csproj.CoreCompileInputs.cache
+D:\code\cs7presentation\expression_bodied\obj\Debug\netcoreapp1.1\expression_bodied.AssemblyInfoInputs.cache
